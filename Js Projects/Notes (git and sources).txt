@@ -1,0 +1,31 @@
+git Open bash for new push in new repo:
+git init
+git add .
+git commit -m “COMMENTS”
+git remote add origin <repo link>
+git push -u origin main
+git status
+
+For old repo and already git initiated folder:
+git add .
+git commit -m “COMMENTS”
+git push -u origin main
+
+{
+git add <file> 
+git commit -m <commit message> 
+git push origin main
+
+}
+-------------------------------------------
+Get images from the below websites:
+Unsplash
+Negative Space
+kaboompics
+picjumbo
+Stokpic
+Fancycrave
+StockSnap.io
+
+For Fonts:
+Google Fonts
